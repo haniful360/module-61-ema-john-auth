@@ -1,0 +1,64 @@
+.cart {
+    position: sticky;
+    top: 20px;
+    padding-bottom: 50px;
+
+}
+
+.order-summery {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    color: #1C2B35;
+
+}
+
+.cart-info p {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.005em;
+    color: #2A414F;
+    margin-left: 23px;
+}
+
+.grand-total {
+    margin-top: 0;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: 0.0015em;
+    color: #0E161A;
+    margin-left: 23px;
+}
+
+.clear-cart-btn {
+    width: 90%;
+    height: 56px;
+    margin: 0 auto;
+    background: #FF3030;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 25px;
+    letter-spacing: 0.0015em;
+    color: #FFFFFF;
+
+}
+
+.d-icon {
+    color: white;
+    font-size: 24px;
+}
